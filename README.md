@@ -23,4 +23,4 @@
 
 > 自定义服务名：pm2 start index.js --watch -n name
 
-> 查看日志：pm2 monit
+> 打开 pm2 监视器：pm2 monit
